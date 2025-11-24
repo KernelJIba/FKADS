@@ -1,0 +1,21 @@
+--名称
+appname="FKADS"
+--版本号
+appver="1.0bate-r4bff60hd7-A"
+--版本
+appcode="10000a"
+--SDK
+appsdk="15"
+--包名
+packagename="top.fkadsnb.com"
+--调试模式
+debugmode=false
+--应用权限
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE",
+}
+--跳过编译
+skip_compilation={
+
+}

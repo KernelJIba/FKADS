@@ -1,0 +1,331 @@
+{
+  LinearLayout;
+  layout_width="fill";
+  orientation="vertical";
+  layout_height="match_parent";
+  gravity="center";
+  {
+    LinearLayout;
+    id="yylb";
+    layout_height="250dp";
+    layout_width="200dp";
+    {
+      CardView;
+      layout_width="match_parent";
+      id="卡片";
+      layout_height="match_parent";
+      {
+        LinearLayout;
+        layout_width="match_parent";
+        layout_height="match_parent";
+        orientation="vertical";
+        {
+          LinearLayout;
+          layout_height="match_parent";
+          layout_width="match_parent";
+          {
+            ScrollView;
+            layout_width="match_parent";
+            id="kjbj";
+            layout_height="match_parent";
+            {
+              LinearLayout;
+              layout_width="match_parent";
+              layout_height="match_parent";
+              orientation="vertical";
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" 最初的记忆DJ";
+                  id="音乐1";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" 某英文高燃";
+                  id="音乐2";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" Drowe";
+                  id="音乐3";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" Ein Kleines Lied";
+                  id="音乐4";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" #тамада";
+                  id="音乐5";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" Soft Lips";
+                  id="音乐6";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" SexyBack";
+                  id="音乐7";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" 蓄势";
+                  id="音乐8";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" sweetdream";
+                  id="音乐9";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=[==[ In The Shadow Of The 
+ Sun]==];
+                  id="音乐10";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" wake";
+                  id="音乐11";
+                };
+              };
+              {
+                LinearLayout;
+                layout_width="match_parent";
+                {
+                  Switch;
+                  text=" 天下";
+                  id="音乐12";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 十年人间";
+                  id="音乐13";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 长生诀";
+                  id="音乐14";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 长安姑娘DJ";
+                  id="音乐15";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 广寒谣";
+                  id="音乐16";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 遗失的心跳";
+                  id="音乐17";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 秋殇别恋";
+                  id="音乐18";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 紫荆花盛开DJ版";
+                  id="音乐19";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 深海回响";
+                  id="音乐20";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 循迹";
+                  id="音乐21";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 夜晚微风问海棠";
+                  id="音乐22";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 风过谢桃花   电子国风版";
+                  id="音乐23";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 心如止水";
+                  id="音乐24";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" takemehand";
+                  id="音乐25";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" emptylove";
+                  id="音乐26";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 江湖之间";
+                  id="音乐27";
+                };
+              };
+              {
+                Switch;
+                text=" Balenciaga";
+                id="音乐28";
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 离人赋";
+                  id="音乐29";
+                };
+              };
+              {
+                LinearLayout;
+                {
+                  Switch;
+                  text=" 年轮";
+                  id="音乐30";
+                };
+              };
+              {
+                LinearLayout;
+              };
+            };
+          };
+        };
+      };
+    };
+  };
+  {
+    Button;
+    layout_width="115dp";
+    text="强制停止";
+    layout_marginTop="20dp";
+    id="qztz";
+  };
+  {
+    Button;
+    layout_width="113dp";
+    text="关闭开场音乐";
+    layout_marginTop="10dp";
+    id="gb";
+  };
+  {
+    Button;
+    layout_width="113dp";
+    text="开启开场音乐";
+    layout_marginTop="10dp";
+    id="kq";
+  };
+  {
+    LinearLayout;
+    layout_width="45dp";
+    layout_height="45dp";
+    id="fhjb";
+    layout_marginTop="30dp";
+    gravity="center";
+    {
+      ImageView;
+      layout_width="30dp";
+      id="fh";
+      src="res/fanhui.png";
+      layout_height="30dp";
+    };
+  };
+};
